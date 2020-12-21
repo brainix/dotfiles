@@ -74,6 +74,11 @@ autocmd FileType javascript,css,html setlocal shiftwidth=2
 autocmd FileType javascript,css,html setlocal softtabstop=2
 autocmd FileType javascript,css,html setlocal tabstop=2
 
+autocmd FileType go setlocal noexpandtab
+autocmd FileType go setlocal shiftwidth=8
+autocmd FileType go setlocal softtabstop=8
+autocmd FileType go setlocal tabstop=8
+
 
 
 " Allow backspacing over autoindents, line breaks, and the starts of inserts.
