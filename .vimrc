@@ -1,7 +1,7 @@
 "----------------------------------------------------------------------------"
 "   .vimrc                                                                   "
 "                                                                            "
-"   Copyright (c) 2012-2020, Rajiv Bakulesh Shah, original author.           "
+"   Copyright (c) 2012-2021, Rajiv Bakulesh Shah, original author.           "
 "                                                                            "
 "       This file is free software; you can redistribute it and/or modify    "
 "       it under the terms of the GNU General Public License as published    "
