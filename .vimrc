@@ -70,9 +70,9 @@ set autoindent
 " Override tab behavior based on file type.
 " To see a list of known filetypes, issue this command in Vim:
 "   :echo getcompletion('', 'filetype')
-autocmd FileType javascript,css,html setlocal shiftwidth=2
-autocmd FileType javascript,css,html setlocal softtabstop=2
-autocmd FileType javascript,css,html setlocal tabstop=2
+autocmd FileType javascript,css,html,json setlocal shiftwidth=2
+autocmd FileType javascript,css,html,json setlocal softtabstop=2
+autocmd FileType javascript,css,html,json setlocal tabstop=2
 
 autocmd FileType go setlocal noexpandtab
 autocmd FileType go setlocal shiftwidth=8
